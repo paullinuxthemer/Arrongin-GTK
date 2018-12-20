@@ -12205,6 +12205,7 @@ scale {
 
 scale.horizontal trough {
 
+  min-height: 2px;
   padding: 0 4px; }
 
 scale.horizontal highlight, scale.horizontal fill {
