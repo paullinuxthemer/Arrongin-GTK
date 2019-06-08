@@ -6384,7 +6384,7 @@ headerbar .linked:not(.vertical):not(.path-bar).stack-switcher > button{
   border-bottom-color: rgba(0, 0, 0, 0.2);
   border-top-color: rgba(0, 0, 0, 0.08);
   background-color: transparent; 
-  background-image: linear-gradient(to bottom, rgba(86,88,97,0.90),rgba(86,88,97,1));
+  background-image: linear-gradient(to top, rgba(220,111,38,0.90),rgba(220,111,38,1));
   border-radius: 0px;
   min-height: 16px;
   min-width: 16px;
@@ -6428,7 +6428,7 @@ headerbar .linked:not(.vertical):not(.path-bar).stack-switcher > button:checked{
   border-bottom-color: rgba(0, 0, 0, 0.2);
   border-top-color: rgba(0, 0, 0, 0.08);
   background-color: transparent; 
-  background-image: linear-gradient(to top, rgba(86,88,97,0.90),rgba(86,88,97,1));}
+  background-image: linear-gradient(to top, rgba(10,65,10,0.90),rgba(10,65,10,1));}
 
 
 headerbar .linked:not(.vertical):not(.path-bar).stack-switcher > button:disabled{
